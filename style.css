@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Domine:wght@400;500;600;700&family=Indie+Flower&family=Mukta:wght@200;300;400;500;600;700;800&family=Nanum+Gothic+Coding:wght@400;700&family=Rampart+One&family=Righteous&display=swap');
+
+body{
+    background-color: lightblue;
+    font-size: 19px;
+}
+
+h1{
+    text-align: center;
+    color: darkgreen;
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+h2{
+    font-family: 'Rampart One', cursive;
+    color: red;
+}
+
+p{
+    color: black;
+    text-indent: 50px;
+}
+
+.primeiro{
+    font-family: 'Domine', serif;
+}
+
+.segundo{
+    font-family: 'Mukta', sans-serif;
+}
+
+.terceiro{
+    font-family: 'Righteous', cursive;
+}
+
+.quarto{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2em;
+}
+
+.quinto{
+    font-family: 'Nanum Gothic Coding', monospace;
+}
